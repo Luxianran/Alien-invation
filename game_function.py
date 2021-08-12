@@ -2,6 +2,7 @@ import pygame
 import sys
 from bullet import Bullet
 
+
 def update_sn(ai_settings, sn, ship, bullets):
     sn.fill(ai_settings.bg_color)
 
